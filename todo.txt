@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Branch switching is a nightmare
-=======
-hello this is a feature branch
->>>>>>> feature
+try this
