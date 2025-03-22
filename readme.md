@@ -1,1 +1,1 @@
-I'm the best
+we both are best
